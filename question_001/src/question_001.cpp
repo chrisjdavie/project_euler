@@ -20,7 +20,7 @@ int main() {
 	long int sum_3, sum_5, sum_15;
 
 	// T - number of test cases
-	// Upper limit
+	// N - upper limit
 	long int T, N;
 
 	cin >> T;
