@@ -40,7 +40,7 @@ int main() {
 	// Then, using (2)
 	// F(n) = 4*F(n-3) + F(n-6)
 	//
-	// move to 3*n -> m, and set F(0) = 0, F(1) = 2
+	// move to 3*n -> m, and set F(m=0) = 0, F(m=1) = 2
 	// F(m) = 4*F(m-1) + F(m-2)
 
 	// Fibonacci numbers to hold in each loop
